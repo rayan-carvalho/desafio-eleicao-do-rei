@@ -48,13 +48,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   - [x] framework Laravel.
   - [x] banco de dados MySQL.
 
+## 🛠 Envio
+<p>O link do projeto no GitHub deve ser enviado para a mão do falecido rei via corvo no endereço: <b>rayan@grupoavp.com.br</b></p>
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-##  Versões do README
