@@ -8,7 +8,8 @@ Olá Devs, com a morte do Rei Viserys I e sem nenhum descendente de sua linhagem
 - Tela para escolher o candidato e votar;
 - Tela de resultado com a porcentagem dos candidatos;
 
-<p>Foi decidido também que o Framwork Web de ser o Laravel e o Banco de Dados MySQL.</p>
+<p>Foi decidido também que o Framwork Web será o Laravel e o Banco de Dados MySQL.</p>
+<p>Envio o projeto no GitHub para a mão do falecido rei via corvo no endereço: <b>rayan@grupoavp.com.br</b></p>
 
 <p> Lembre-se, a escolha da democracia do reinado agora está em suas mãos.</p> 
 <p>Tic tac, tic tac, tic tac... </p> 
