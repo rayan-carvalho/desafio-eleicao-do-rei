@@ -7,6 +7,7 @@ Olá Devs, com a morte do Rei Viserys I e sem nenhum descendente de sua linhagem
 - Cadastro da eleição com o nome da eleição, data e candidatos;
 - Tela para escolher o candidato e votar;
 - Tela de resultado com a porcentagem dos candidatos;
-Lembre-se a escolha da democracia do reinado agora está em suas mãos. 
-Tic tac, tic tac, tic tac... 
+
+#Lembre-se a escolha da democracia do reinado agora está em suas mãos. 
+#Tic tac, tic tac, tic tac... 
 
