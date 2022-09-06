@@ -26,6 +26,11 @@
 ## ✉️ Envio
 <p>O link do projeto no GitHub deve ser enviado para a mão do falecido 👑rei via 🦅 no endereço: <b>rayan@grupoavp.com.br</b></p>
 ---
+
+## 
 <p>💡 Lembre-se, a escolha da democracia do reinado agora está em suas mãos.</p> 
+
+---
+## 
 <p>🧭 tic tac, tic tac, tic tac... </p> 
 
