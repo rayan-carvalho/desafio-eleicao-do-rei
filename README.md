@@ -12,7 +12,7 @@
 ---
 ## ⚙️ Funcionalidades
 
-  - [x] cadastro do candidato ao trono com nome completo, idade, cidade, foto.
+  - [x] cadastro do candidato ao trono com nome completo, idade, cidade e foto.
   - [x] cadastros das cidades.
   - [x] cadastro da eleição com o nome da eleição, data e candidatos.
   - [x] tela de escolha do candidatos com foto.
