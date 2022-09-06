@@ -19,34 +19,7 @@ Olá Devs, com a morte do Rei Viserys I e sem nenhum descendente de sua linhagem
 <p>💡 Lembre-se, a escolha da democracia do reinado agora está em suas mãos.</p> 
 <p>🧭 Tic tac, tic tac, tic tac... </p> 
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
-  
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
-  </a>
-  
-  <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-    </a>
-  
- 
-</p>
 <h1 align="center">
  🚧Eleição do Rei de Westeros 🚧
 </h1>
@@ -65,17 +38,12 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
+
   - [x] Cadastro do candidato ao trono com nome completo, idade, cidade, foto e família na qual pertence.
   - [x] Cadastros das cidades.
   - [x] Cadastro da eleição com o nome da eleição, data e candidatos.
   - [x] Tela de resultado com a porcentagem dos candidatos: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+  
 
 - [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
   - [x] navegar pelo mapa para ver as instituições cadastradas
