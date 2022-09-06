@@ -1,4 +1,4 @@
-# Eleição do Rei de Westeros
+<h1 align="center"> Eleição do Rei de Westeros </h1>
 Desafio prático para o Estágio de Desenvolvimento WEB do Grupo AVP.
 
 Olá Devs, com a morte do Rei Viserys I e sem nenhum descendente de sua linhagem para assumir o trono de ferro, o reino de Westeros está sem controle e corre sérios riscos de invasões. Pensando nisso os lords conselheiros do falecido rei decidiram criar um sistema de eleição online para os candidatos ao trono e você foi o escolhido para desenvolver. O sistema deve conter:
