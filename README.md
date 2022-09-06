@@ -35,27 +35,19 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
-
 ## ⚙️ Funcionalidades
 
   - [x] cadastro do candidato ao trono com nome completo, idade, cidade, foto e família na qual pertence.
   - [x] cadastros das cidades.
   - [x] cadastro da eleição com o nome da eleição, data e candidatos.
   - [x] tela de resultado final com as porcentagens dos candidatos. 
-
-
-
 ---
 
+## 🛠 Tecnologias
 
+  - [x] framework Laravel.
+  - [x] banco de dados MySQL.
 
-
-## 🚀 Como executar o projeto
-
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
