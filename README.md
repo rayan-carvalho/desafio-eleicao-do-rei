@@ -15,7 +15,7 @@
   - [x] cadastro do candidato ao trono com nome completo, idade, cidade e foto.
   - [x] cadastros das cidades.
   - [x] cadastro da eleição com o nome da eleição, data e candidatos.
-  - [x] tela de escolha do candidatos com foto.
+  - [x] tela de escolha dos candidatos com foto.
   - [x] tela de resultado final com as porcentagens dos candidatos. 
 ---
 
@@ -25,7 +25,7 @@
   - [x] banco de dados MySQL.
 
 ## ✉️ Envio
-<p>O link do projeto no GitHub deve ser enviado para a mão do falecido 👑rei via 🦅 no endereço: <b>rayan@grupoavp.com.br</b></p>
+<p>O link do projeto no GitHub deve ser enviado para a mão do falecido rei via corvo no endereço: <b>rayan@grupoavp.com.br</b></p>
 
 ## 
 <p>💡 Lembre-se, a escolha da democracia do reinado agora está em suas mãos.</p> 
