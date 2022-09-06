@@ -12,9 +12,10 @@
 ---
 ## ⚙️ Funcionalidades
 
-  - [x] cadastro do candidato ao trono com nome completo, idade, cidade, foto e família na qual pertence.
+  - [x] cadastro do candidato ao trono com nome completo, idade, cidade, foto.
   - [x] cadastros das cidades.
   - [x] cadastro da eleição com o nome da eleição, data e candidatos.
+  - [x] tela de escolha do candidatos com foto.
   - [x] tela de resultado final com as porcentagens dos candidatos. 
 ---
 
@@ -28,5 +29,6 @@
 
 ## 
 <p>💡 Lembre-se, a escolha da democracia do reinado agora está em suas mãos.</p> 
+<p>😀 Existem mil maneiras de preparar um neston, faça a sua!</p> 
 <p>🧭 tic tac, tic tac, tic tac... </p> 
 
